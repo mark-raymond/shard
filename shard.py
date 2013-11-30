@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # shard.py
-# Copyright 2013 Mark Raymond
+# Copyright (c) 2013 Mark Raymond
 # Released under the MIT license
 
 import sys
